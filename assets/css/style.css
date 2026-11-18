@@ -1,0 +1,40 @@
+body{
+    background-color:#141414;
+    color:white;
+}
+h2{
+    color:#e50914;
+    font-weight:bold;
+    font-size:40px;
+
+}
+p{
+    color:#b3b3b3;
+    font-size:15px;
+    
+}
+.card{
+    background-color:#222;
+    padding:10px;
+
+}
+.card img{
+    width:100%;
+    height:300px;
+    object-fit:cover;
+    border-radius:5px;
+
+
+    
+}
+.card h3{
+    color:white;
+    font-size:15px;
+    font-weight:bold;
+
+}
+select{
+    background-color:#222 !important;
+    color: white ! important;
+    border: 1px solid #e50914 ! important;
+}
